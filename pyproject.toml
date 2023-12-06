@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "python-algorithm-workbook"
+version = "0.1.0"
+description = ""
+authors = ["tgoddessana <twicegoddessana1229@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+mkdocs = "^1.5.3"
+mkdocs-material = "^9.4.14"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
