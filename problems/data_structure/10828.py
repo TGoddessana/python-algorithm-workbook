@@ -1,3 +1,7 @@
+"""
+https://www.acmicpc.net/problem/10828
+"""
+
 import sys
 
 command_count = int(sys.stdin.readline())
