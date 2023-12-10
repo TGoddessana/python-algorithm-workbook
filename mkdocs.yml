@@ -1,8 +1,10 @@
 site_name: python-algorithm-workbook
 
 nav:
-  - Home: index.md
-
+  - 홈: index.md
+  - 자료구조:
+      - 소개: data_structure/intro.md
+      - 스택: data_structure/stack.md
 
 theme:
   name: material
